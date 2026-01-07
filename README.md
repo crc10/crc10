@@ -55,13 +55,14 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
 
 #### 🔜 Upcoming Challenges (Q1 2026)
 
-* 🔮 **Electricity Load Forecasting**
+* 🔮 **Electricity Load Forecasting & R Package**
   * *Solo • Time Series*
-  * [cite_start]Forecast building consumption (15-min intervals) [cite: 6] [cite_start]implementing the **Weighted Nearest Neighbors (WNN)** algorithm  in a custom R Package.
+  * **Objective:** Forecast building electricity consumption (15-min intervals)[cite: 6, 7].
+  * **Planned Scope:** Benchmark advanced models (LSTM, XGBoost, SARIMA) and implement the **Weighted Nearest Neighbors (WNN)** algorithm within a custom **R Package**.
 
 * 💳 **Bank Fraud Detection**
   * *Team of 2 • Imbalanced Data*
-  * [cite_start]Detect fraud on real retail/bank data [cite: 46] [cite_start]by maximizing **Business Margin** (Cost-sensitive learning) [cite: 107, 110] instead of simple accuracy.
-
+  * **Goal:** Detect fraudulent transactions in a retail/banking context.
+  * **Approach:** Maximizing **Business Margin** (Cost-sensitive learning)and F-Measure rather than simple accuracy.
 ---
 [LinkedIn](www.linkedin.com/in/constantin-rey-coquais-49a8a7250) • [Email](mailto:constantin.rey-coquais@centrale.centralelille.fr)
