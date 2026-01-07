@@ -31,15 +31,17 @@ I built and maintain my own NAS running on **TrueNAS Scale** to explore networki
 *Legend: ✅ = Completed (click title to view repo) | 🚧 = Work In Progress*
 
 #### 🚀 Personal Projects
-* ✅ **[Smart Outreach CRM](LINK_TO_REPO)**
+* ✅ **[Smart Outreach CRM](https://github.com/crc10/smart-outreach-crm)**
   * **Goal:** Automate and personalize internship applications using GenAI.
   * **Pipeline:** LinkedIn profile parsing -> LLM-based draft generation -> Human-in-the-loop validation -> Automated sending.
   * **Infra:** Microservices architecture (2 containers) orchestrated via Docker Compose and self-hosted on TrueNAS.
   * **Tech:** `Python` `Streamlit` `LLM APIs` `Docker` `Chrome extension`
 
-* 🚧 **[Real Estate Price Prediction (Paris)](LINK_TO_REPO)**
-  * **Goal:** Identify undervalued districts for rental investment.
-  * **Tech:** `Python` `Webscraping` `Scikit-learn`
+* 🚧 **Smart Shopping List Generator**
+  * **Goal:** Digitize physical recipe cards (HelloFresh) to automate grocery list generation.
+  * **Key Challenge:** Converting unstructured data (OCR) into a structured database using GenAI for ingredient normalization and entity resolution.
+  * **Features:** Recipe digitization, dynamic ingredient scaling based on guest count, and aggregated shopping list export.
+  * **Tech:** `Python` `Tesseract (OCR)` `LLM` `Streamlit` `Docker`
 
 #### 🎓 Academic Projects
 *Work realized during my Master's in Data Science (SISE).*
