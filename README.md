@@ -1,7 +1,7 @@
 # Hi there, I'm Constantin 👋
 ## Data Scientist / Engineer graduate
 
-Mathematician by mindset, Tinkerer at heart: applying rigorous theory to engineer robust, real-world solutions.
+I have a scientific background and I'm a Tinkerer at heart. Here are the projects where I apply what I learn!
 ---
 
 ### 🛠️ Tech Stack & Skills
