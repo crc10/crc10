@@ -38,15 +38,15 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
 
 #### 🎓 Academic Projects (M2 SISE)
 
-* ✅ **[Energy Performance Predictor (DPE)](https://github.com/OlivierBOROT/M2-Projet-ENEDIS)**
-  * *Team of 4 • From scratch*
-  * **Dual Model:** Classification (Energy Class) & Regression (Consumption) served via API to a reactive frontend.
-  * **Stack:** `Python` `Shiny` `FastAPI` `Docker` `Scikit-learn`
-
 * ✅ **[clustVarACC (R Package)](https://github.com/cyrizon/r-clustering-variables)**
   * *Team of 3 • From scratch*
   * Comprehensive **R Library** for Variable Clustering (K-Means, HAC, MCA) using **R6 (OOP)**. Includes Vignettes & Unit Tests.
   * **Stack:** `R` `R6 (OOP)` `Shiny` `Package Dev`
+ 
+* ✅ **[Energy Performance Predictor (DPE)](https://github.com/OlivierBOROT/M2-Projet-ENEDIS)**
+  * *Team of 4 • From scratch*
+  * **Dual Model:** Classification (Energy Class) & Regression (Consumption) served via API to a reactive frontend.
+  * **Stack:** `Python` `Shiny` `FastAPI` `Docker` `Scikit-learn`
 
 * 🚧 **Job Market Insights & NLP**
   * *Team of 4 • WIP*
