@@ -43,6 +43,14 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * Comprehensive **R Library** for Variable Clustering (K-Means, HAC, MCA) using **R6 (OOP)**. Includes Vignettes & Unit Tests.
   * **Stack:** `R` `R6 (OOP)` `Shiny` `Package Dev`
  
+* ✅ **[MedTriage-AI](https://github.com/crc10/medtriage-ai)**
+  * *Team of 4 • From scratch*
+  * **AI Copilot for emergency medical triage** based on the official FRENCH standard.
+  * **Dockerized multi-service architecture** (Frontend, Backend, MLflow) deployed on **[Hugging Face Spaces](https://riadshrn-medtriage-frontend.hf.space/)**.
+  * Integrated a **Pydantic-AI Agent** with **RAG** capabilities (ChromaDB) for medical protocol analysis and structured data extraction.
+  * **Production-Grade & Ethical Focus:** Prompt injection security, real-time **FinOps** (API costs) and **GreenOps** (EcoLogits) monitoring to track carbon footprint.
+  * **Stack:** `Pydantic-AI` `Mistral AI` `FastAPI` `Streamlit` `Docker` `MLflow` `ChromaDB` `EcoLogits`
+ 
 * ✅ **[Energy Performance Predictor (DPE)](https://github.com/OlivierBOROT/M2-Projet-ENEDIS)**
   * *Team of 4 • From scratch*
   * **Dual Model:** Classification (Energy Class) & Regression (Consumption) served via API to a reactive frontend.
