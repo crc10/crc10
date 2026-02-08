@@ -37,7 +37,6 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * **Stack:** `Python` `Tesseract` `LLM` `Streamlit` `Docker`
 
 #### 🎓 Academic Projects (M2 SISE)
-
 * ✅ **[clustVarACC (R Package)](https://github.com/cyrizon/r-clustering-variables)**
   * *Team of 3 • From scratch*
   * Comprehensive **R Library** for Variable Clustering (K-Means, HAC, MCA) using **R6 (OOP)**. Includes Vignettes & Unit Tests.
@@ -50,6 +49,13 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * Integrated a **Pydantic-AI Agent** with **RAG** capabilities (ChromaDB) for medical protocol analysis and structured data extraction.
   * **Production-Grade & Ethical Focus:** Prompt injection security, real-time **FinOps** (API costs) and **GreenOps** (EcoLogits) monitoring to track carbon footprint.
   * **Stack:** `Pydantic-AI` `Mistral AI` `FastAPI` `Streamlit` `Docker` `MLflow` `ChromaDB` `EcoLogits`
+
+* ✅ **[Fraud Detection with Cost-Sensitive Learning](https://github.com/crc10/fraud-detection-imbalanced)**
+  * *Team of 2 • Imbalanced Data*
+  * Fraud detection in **highly imbalanced** check transaction data (IR ~165:1, 4.6M transactions).
+  * **Dual Approach:** Statistical optimization (F1-Score) vs Economic optimization (Profit maximization).
+  * Achieved **93.3% profit capture rate** (€2.14M) using **Instance-Weighted XGBoost** with custom cost matrix integration.
+  * **Stack:** `Python` `XGBoost` `Polars` `Scikit-learn` `Imbalanced-learn`
  
 * ✅ **[Energy Performance Predictor (DPE)](https://github.com/OlivierBOROT/M2-Projet-ENEDIS)**
   * *Team of 4 • From scratch*
@@ -62,15 +68,10 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * **Stack:** `Python` `NLP (Spacy/Gensim)` `Streamlit`
 
 #### 🔜 Upcoming Challenges (Q1 2026)
-
 * 🔮 **Electricity Load Forecasting & R Package**
   * *Solo • Time Series*
-  * **Objective:** Forecast building electricity consumption (15-min intervals)[cite: 6, 7].
+  * **Objective:** Forecast building electricity consumption (15-min intervals).
   * **Planned Scope:** Benchmark advanced models (LSTM, XGBoost, SARIMA) and implement the **Weighted Nearest Neighbors (WNN)** algorithm within a custom **R Package**.
 
-* 💳 **Bank Fraud Detection**
-  * *Team of 2 • Imbalanced Data*
-  * **Goal:** Detect fraudulent transactions in a retail/banking context.
-  * **Approach:** Maximizing **Business Margin** (Cost-sensitive learning)and F-Measure rather than simple accuracy.
 ---
 [LinkedIn](www.linkedin.com/in/constantin-rey-coquais-49a8a7250) • [Email](mailto:constantin.rey-coquais@centrale.centralelille.fr)
