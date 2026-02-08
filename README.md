@@ -50,12 +50,18 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * **Production-Grade & Ethical Focus:** Prompt injection security, real-time **FinOps** (API costs) and **GreenOps** (EcoLogits) monitoring to track carbon footprint.
   * **Stack:** `Pydantic-AI` `Mistral AI` `FastAPI` `Streamlit` `Docker` `MLflow` `ChromaDB` `EcoLogits`
 
-* ✅ **[Fraud Detection with Cost-Sensitive Learning](https://github.com/crc10/fraud-detection-imbalanced)**
+* ✅ **[Fraud Detection with Cost-Sensitive Learning](https://github.com/crc10/fraud-detection-project)**
   * *Team of 2 • Imbalanced Data*
   * Fraud detection in **highly imbalanced** check transaction data (IR ~165:1, 4.6M transactions).
   * **Dual Approach:** Statistical optimization (F1-Score) vs Economic optimization (Profit maximization).
   * Achieved **93.3% profit capture rate** (€2.14M) using **Instance-Weighted XGBoost** with custom cost matrix integration.
   * **Stack:** `Python` `XGBoost` `Polars` `Scikit-learn` `Imbalanced-learn`
+
+* ✅ **[Electricity Load Forecasting & R Package](https://github.com/crc10/time_series_forecasting)**
+  * *Solo • Time Series*
+  * Forecast building electricity consumption at **15-minute intervals** using classical time series methods.
+  * Benchmarked **SARIMA, ETS, NNAR** and implemented the **Weighted Nearest Neighbors (WNN)** algorithm as a native R package.
+  * **Stack:** `R` `forecast` `neuralnet` `Package Development`
  
 * ✅ **[Energy Performance Predictor (DPE)](https://github.com/OlivierBOROT/M2-Projet-ENEDIS)**
   * *Team of 4 • From scratch*
@@ -66,12 +72,5 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * *Team of 4 • WIP*
   * Insights extraction from job descriptions using **Topic Modeling (LDA)** and semantic clustering.
   * **Stack:** `Python` `NLP (Spacy/Gensim)` `Streamlit`
-
-#### 🔜 Upcoming Challenges (Q1 2026)
-* 🔮 **Electricity Load Forecasting & R Package**
-  * *Solo • Time Series*
-  * **Objective:** Forecast building electricity consumption (15-min intervals).
-  * **Planned Scope:** Benchmark advanced models (LSTM, XGBoost, SARIMA) and implement the **Weighted Nearest Neighbors (WNN)** algorithm within a custom **R Package**.
-
 ---
 [LinkedIn](www.linkedin.com/in/constantin-rey-coquais-49a8a7250) • [Email](mailto:constantin.rey-coquais@centrale.centralelille.fr)
