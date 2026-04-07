@@ -23,25 +23,16 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
 ---
 
 ### 📂 Featured Projects
-*Legend: ✅ = Completed (click title for repo) | 🚧 = Work In Progress*
 
-#### 🚀 Personal Projects
-* ✅ **[Smart Outreach CRM](https://github.com/crc10/smart-outreach-crm)**
-  * *Solo • From scratch*
-  * Automates internship applications via LinkedIn parsing & GenAI with a **Human-in-the-loop** validation step.
-  * **Stack:** `Python` `Streamlit` `LLM APIs` `Docker` `Chrome Ext`
 
-* 🚧 **Smart Shopping List Generator**
-  * *Solo • From scratch*
-  * Digitizes physical recipe cards (HelloFresh) using OCR and **GenAI** for ingredient normalization/entity resolution.
-  * **Stack:** `Python` `Tesseract` `LLM` `Streamlit` `Docker`
+#### 🤖 GenAI, Agents & Engineering
 
-#### 🎓 Academic Projects (M2 SISE)
-* ✅ **[clustVarACC (R Package)](https://github.com/cyrizon/r-clustering-variables)**
-  * *Team of 3 • From scratch*
-  * Comprehensive **R Library** for Variable Clustering (K-Means, HAC, MCA) using **R6 (OOP)**. Includes Vignettes & Unit Tests.
-  * **Stack:** `R` `R6 (OOP)` `Shiny` `Package Dev`
- 
+* ✅ **[Agentic Voice Assistant (SISE-CLAW)](https://github.com/crc10/agentic-voice-assistant)**
+  * *Team of 3 • Hackathon/Challenge*
+  * **Asynchronous AI Voice Assistant** to control a PC hands-free. Orchestrates natural language commands to manage emails (Gmail API), search the web, play music, and handle local documents.
+  * Features real-time audio processing and a robust multi-provider STT/TTS fallback system.
+  * **Stack:** `Python` `PydanticAI` `Mistral` `Whisper/Groq` `Asyncio` `Streamlit`
+
 * ✅ **[MedTriage-AI](https://github.com/crc10/medtriage-ai)**
   * *Team of 4 • From scratch*
   * **AI Copilot for emergency medical triage** based on the official FRENCH standard.
@@ -50,6 +41,19 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * **Production-Grade & Ethical Focus:** Prompt injection security, real-time **FinOps** (API costs) and **GreenOps** (EcoLogits) monitoring to track carbon footprint.
   * **Stack:** `Pydantic-AI` `Mistral AI` `FastAPI` `Streamlit` `Docker` `MLflow` `ChromaDB` `EcoLogits`
 
+* ✅ **[Smart Outreach CRM](https://github.com/crc10/smart-outreach-crm)**
+  * *Solo • From scratch*
+  * Automates internship applications via LinkedIn parsing & GenAI with a **Human-in-the-loop** validation step.
+  * **Stack:** `Python` `Streamlit` `LLM APIs` `Docker` `Chrome Ext`
+
+#### ⚡ Applied Data Science & Energy
+
+* ✅ **[Electricity Load Forecasting & R Package](https://github.com/crc10/time_series_forecasting)**
+  * *Solo • Time Series*
+  * Forecast building electricity consumption at **15-minute intervals** using classical time series methods.
+  * Benchmarked **SARIMA, ETS, NNAR** and implemented the **Weighted Nearest Neighbors (WNN)** algorithm as a native R package.
+  * **Stack:** `R` `forecast` `neuralnet` `Package Development`
+
 * ✅ **[Fraud Detection with Cost-Sensitive Learning](https://github.com/crc10/fraud-detection-project)**
   * *Team of 2 • Imbalanced Data*
   * Fraud detection in **highly imbalanced** check transaction data (IR ~165:1, 4.6M transactions).
@@ -57,20 +61,5 @@ I explore **networking** (VLANs, Reverse Proxy, VPN), **hardware** assembly, and
   * Achieved **93.3% profit capture rate** (€2.14M) using **Instance-Weighted XGBoost** with custom cost matrix integration.
   * **Stack:** `Python` `XGBoost` `Polars` `Scikit-learn` `Imbalanced-learn`
 
-* ✅ **[Electricity Load Forecasting & R Package](https://github.com/crc10/time_series_forecasting)**
-  * *Solo • Time Series*
-  * Forecast building electricity consumption at **15-minute intervals** using classical time series methods.
-  * Benchmarked **SARIMA, ETS, NNAR** and implemented the **Weighted Nearest Neighbors (WNN)** algorithm as a native R package.
-  * **Stack:** `R` `forecast` `neuralnet` `Package Development`
- 
-* ✅ **[Energy Performance Predictor (DPE)](https://github.com/OlivierBOROT/M2-Projet-ENEDIS)**
-  * *Team of 4 • From scratch*
-  * **Dual Model:** Classification (Energy Class) & Regression (Consumption) served via API to a reactive frontend.
-  * **Stack:** `Python` `Shiny` `FastAPI` `Docker` `Scikit-learn`
-
-* 🚧 **Job Market Insights & NLP**
-  * *Team of 4 • WIP*
-  * Insights extraction from job descriptions using **Topic Modeling (LDA)** and semantic clustering.
-  * **Stack:** `Python` `NLP (Spacy/Gensim)` `Streamlit`
 ---
 [LinkedIn](www.linkedin.com/in/constantin-rey-coquais-49a8a7250) • [Email](mailto:constantin.rey-coquais@centrale.centralelille.fr)
